@@ -3,7 +3,7 @@ title: juhuizhong Blog
 tagline: 'A Jekyll theme based on Lanyon'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://juhuizhong.github.io" target="_blank">@codinfox</a>.'
 baseurl: "/juhuizhong"
-url: http://juhuizhong.github.io
+url: https://github.com/juhuizhong
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,7 +24,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: juhuizhong
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
@@ -46,14 +46,14 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://juhuizhong.github.io/'
+    - 'https://github.com/juhuizhong/juhuizhong.gitbub.io'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+  image: 
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
